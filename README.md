@@ -99,7 +99,7 @@ based on their total spending.
 
 ## Dashboard
 
-![Dashboard](outputs/dashboard/sales_dashboard.png)
+![Customer Sales Analysis Dashboard](outputs/dashboard/sales_dashboard.png)
 
 ---
 
